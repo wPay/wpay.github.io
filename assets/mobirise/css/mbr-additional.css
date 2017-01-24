@@ -484,6 +484,14 @@ h6,
 #header1-t .mbr-section-title DIV {
   font-size: 36px;
 }
+#social-buttons3-x .mbr-section-title,
+#social-buttons3-x .btn-social {
+  color: #fff;
+}
+#social-buttons2-y .mbr-section-title,
+#social-buttons2-y .btn-social {
+  color: #232323;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
