@@ -185,7 +185,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Get 100% of your donation within 14 days or less.</span><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><div>You dont need to Refer anybody before you receive your payment</div><div><br></div>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Get 100% of your donation within 15 days or less.</span><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><div>You dont need to Refer anybody before you receive your payment</div><div><br></div>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"SIGN UP\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
         },
