@@ -480,9 +480,12 @@ h6,
 }
 #header1-t .mbr-section-title SPAN {
   font-size: 36px;
+  color: #efefef;
 }
 #header1-t .mbr-section-title DIV {
   font-size: 36px;
+  text-align: center;
+  color: #d14841;
 }
 #social-buttons3-x .mbr-section-title,
 #social-buttons3-x .btn-social {
