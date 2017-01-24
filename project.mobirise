@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11",
-    "uniqCompNum": 35,
+    "uniqCompNum": 36,
     "versionPublish": "3.11",
     "favicon": "",
     "noImageResize": "",
@@ -377,7 +377,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-y",
+          "_anchor": "social-buttons2-z",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
