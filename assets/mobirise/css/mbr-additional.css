@@ -411,6 +411,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-y .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#header1-y .mbr-section-title DIV {
+  font-size: 25px;
+  color: #b8312f;
+}
+#header1-y .mbr-section-title {
+  font-size: 14px;
+}
 #menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -478,22 +488,76 @@ h6,
 #menu-i .close-icon::after {
   background-color: #ffffff;
 }
-#header1-t .mbr-section-title SPAN {
-  font-size: 36px;
-  color: #efefef;
-}
-#header1-t .mbr-section-title DIV {
-  font-size: 36px;
-  text-align: center;
-  color: #d14841;
-}
-#social-buttons3-x .mbr-section-title,
-#social-buttons3-x .btn-social {
-  color: #fff;
-}
 #social-buttons2-z .mbr-section-title,
 #social-buttons2-z .btn-social {
   color: #232323;
+}
+#menu-7 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-7 .navbar-caption {
+  color: #ffffff;
+}
+#menu-7 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-7 .link,
+#menu-7 .dropdown-item {
+  color: #ffffff;
+}
+#menu-7 .link {
+  font-size: 0.75rem;
+}
+#menu-7 .dropdown-item,
+#menu-7 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-7 .link:hover,
+#menu-7 .dropdown-item:hover,
+#menu-7 .link:focus,
+#menu-7 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-7 .link[aria-expanded="true"],
+#menu-7 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-7 .nav-dropdown-sm .link:focus,
+#menu-7 .nav-dropdown-sm .link:hover,
+#menu-7 .nav-dropdown-sm .dropdown-item:focus,
+#menu-7 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-7 .navbar,
+#menu-7 .nav-dropdown-sm,
+#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-7 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-7 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-7 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-7 .bg-color.transparent.opened .link:hover,
+#menu-7 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-7 .link[aria-expanded="true"],
+#menu-7 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-7 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-7 .close-icon::before,
+#menu-7 .close-icon::after {
+  background-color: #ffffff;
 }
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -564,71 +628,4 @@ h6,
 }
 #form1-f .form-control-label {
   color: #232323;
-}
-#menu-7 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-7 .navbar-caption {
-  color: #ffffff;
-}
-#menu-7 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-7 .link,
-#menu-7 .dropdown-item {
-  color: #ffffff;
-}
-#menu-7 .link {
-  font-size: 0.75rem;
-}
-#menu-7 .dropdown-item,
-#menu-7 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-7 .link:hover,
-#menu-7 .dropdown-item:hover,
-#menu-7 .link:focus,
-#menu-7 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-menu {
-  background: #0e0e0e;
-}
-#menu-7 .nav-dropdown-sm .link:focus,
-#menu-7 .nav-dropdown-sm .link:hover,
-#menu-7 .nav-dropdown-sm .dropdown-item:focus,
-#menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#menu-7 .navbar,
-#menu-7 .nav-dropdown-sm,
-#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#menu-7 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-7 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-7 .bg-color.transparent.opened .link:hover,
-#menu-7 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#menu-7.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-7 .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-7 .close-icon::before,
-#menu-7 .close-icon::after {
-  background-color: #ffffff;
 }
