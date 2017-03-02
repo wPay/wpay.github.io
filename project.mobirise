@@ -46,10 +46,11 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#efefef"
             },
             ".mbr-section-title DIV": {
-              "font-size": "25px",
+              "font-size": "36px",
               "color": "#b8312f"
             },
             ".mbr-section-title": {
@@ -76,7 +77,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Get 100% of your donation within 7 days or less&nbsp;</span><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><div><span style=\"line-height: 1.1;\">You don't need to Refer anybody before you receive your payment</span></div><div><span style=\"line-height: 1.1;\"><br></span><br></div><br><div><span style=\"font-weight: normal;\">Warning:</span> enable to use accurate phone numbers and bank account details</div><div><br></div><br><div><br></div><div><br></div>",
+          "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\">Get 100% of your donation within 7 days or less</span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">you don't need to Refer anyone before you receive your payment<br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><div>Warning: enable to use accurate phone numbers and bank account details</div><br><div><br></div><div><br></div>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"SIGN UP\" data-toolbar=\"-mbrBtnMove\">SIGN UP</a>"
         },

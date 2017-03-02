@@ -413,9 +413,10 @@ h6,
 }
 #header1-y .mbr-section-title SPAN {
   font-size: 36px;
+  color: #efefef;
 }
 #header1-y .mbr-section-title DIV {
-  font-size: 25px;
+  font-size: 36px;
   color: #b8312f;
 }
 #header1-y .mbr-section-title {
