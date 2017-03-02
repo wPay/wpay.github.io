@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "CONTACT",
     "name": "www.wpay.org",
     "theme": {
       "name": "mobirise3",
@@ -804,7 +804,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
+          "title": "Create a ticket",
           "subtitle": "",
           "form": {
             "action": "jimmyodoma@gmail.com",
@@ -833,7 +833,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>"
         }
       ]
     },
